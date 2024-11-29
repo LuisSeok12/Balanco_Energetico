@@ -1,4 +1,4 @@
-# Automação de Faturamento com Python
+# Automação do Balanço Energetico com Python
 
 ## Descrição
 Este projeto automatiza tarefas relacionadas ao sistema Thunders e à manipulação de planilhas Excel.
