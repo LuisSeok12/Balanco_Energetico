@@ -53,8 +53,7 @@ def executar_script(matricula):
             'K': 'A', 'D': 'B', 'F': 'C', 'G': 'D', 'R': 'E', 'Q': 'F',
             'P': 'G', 'O': 'H', 'AB': 'M', 'AA': 'N', 'AG': 'P',
             'T': 'S', 'AU': 'T', 'AV': 'U', 'AW': 'AC', 'AX': 'AD',
-            # Adicione os mapeamentos para as colunas faltantes
-            'A': 'V',  # Substitua 'SOURCE_COL1' pela coluna de origem correta
+            'A': 'V',  
             'X': 'W',
             'V': 'X',
             'L': 'AB',
